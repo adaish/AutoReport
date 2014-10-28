@@ -1,0 +1,4 @@
+AutoReport
+==========
+
+Automated reporting project
